@@ -1,0 +1,28 @@
+.conteiner {
+   width: 100%;
+   background-color: rgba(197, 56, 13, 0.788);
+
+
+}
+
+#tr-name {
+    margin-left: 50px;
+}
+
+#header {
+    text-align: center;
+    font-size: 400%;
+    height: 400px;
+    background-image: url("../images/he.jpeg"); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 25px;
+}
+
+th {
+    text-align: center;
+}
+#submit-btn {
+    margin-left: 50px;
+}
