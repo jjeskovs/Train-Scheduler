@@ -1,7 +1,9 @@
+
 .conteiner {
    width: 100%;
-   background-color: rgba(197, 56, 13, 0.788);
-
+   height: 100%;
+   background-color: rgba(27, 16, 18, 0.959);
+   color: beige;
 
 }
 
@@ -17,12 +19,20 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    margin-bottom: 25px;
+    /* margin-bottom: 25px; */
 }
 
 th {
     text-align: center;
+    font-size: 150%;
 }
 #submit-btn {
     margin-left: 50px;
+}
+footer {
+    background-image: url("../images/mind-the-gap.png"); 
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-size: cover; */
+    height: 75px;
 }
