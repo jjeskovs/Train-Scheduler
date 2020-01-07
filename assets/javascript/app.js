@@ -31,7 +31,7 @@ var firebaseConfig = {
     
     database.ref().push(trainInfo) // function to push (upload) info to database
     
-    // log everythign to the console 
+    // log everything to the console 
     console.log(trainInfo.name);
     console.log(trainInfo.destination);
     console.log(trainInfo.start);
